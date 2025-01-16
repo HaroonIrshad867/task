@@ -1,0 +1,29 @@
+{
+    "menuItems": [
+      {
+        "label": "DASHBOARD",
+        "icon": "dashboard"
+      },
+      {
+        "label": "INDOX",
+        "icon": "message",
+        "notification":true,
+        "count": 2
+      },
+      {
+        "label": "SCHEDULE",
+        "icon": "calender"
+      },
+      {
+        "label": "REVIEWS",
+        "icon": "userReview",
+        "notification":true,
+        "count": 2
+      },
+      {
+        "label": "SETTINGS",
+        "icon": "Settings"
+      }
+    ]
+  }
+  
